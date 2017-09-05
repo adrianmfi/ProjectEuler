@@ -1,4 +1,6 @@
 Project Euler
 
-Some of the code i still had lying around for project euler.
-I do not guarantee that a program still works.
+Some of the code used for solving 62 prolems at Project Euler.
+https://projecteuler.net/
+
+![alt text](https://projecteuler.net/profile/Adrianmfi.png)
